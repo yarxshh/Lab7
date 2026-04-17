@@ -16,7 +16,7 @@ namespace Lab7.ConsoleApp
             list.AddLast(-3.1f);
             list.AddLast(15.0f);
             list.AddLast(-8.4f);
-            list.AddLast(2.0f);
+            list.AddLast(-10.0f);
 
             Console.WriteLine("~Виведення списку~");
             foreach (float item in list)
